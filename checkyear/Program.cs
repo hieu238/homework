@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Nhập năm cần kiểm tra: ");
 
-        int a = int.Parse(Console.ReadLine());
+        int a = Convert.ToInt32(Console.ReadLine());
 
         if(a % 400 == 0)
         {
