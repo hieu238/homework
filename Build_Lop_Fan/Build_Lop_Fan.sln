@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Build_Lop_Fan", "Build_Lop_Fan.csproj", "{062AFCAD-4466-434B-9DDA-8CC904B67483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062AFCAD-4466-434B-9DDA-8CC904B67483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062AFCAD-4466-434B-9DDA-8CC904B67483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062AFCAD-4466-434B-9DDA-8CC904B67483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062AFCAD-4466-434B-9DDA-8CC904B67483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C9C42E-08D6-4C0A-88D8-AAA8531D7740}
+	EndGlobalSection
+EndGlobal
